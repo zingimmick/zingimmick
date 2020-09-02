@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/nunomaduro"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=zingimmick&show_icons=true" /></a>
+<a href="https://github.com/zingimmick"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=zingimmick&show_icons=true" /></a>
 
 <!--
 **zingimmick/zingimmick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
