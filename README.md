@@ -13,17 +13,17 @@
    <img src="https://activity-graph.herokuapp.com/graph?username=zingimmick&theme=react-dark&hide_border=true" width="100%">
   </a>
 </p>
+ 
+<h2 align="center">Streak Stats 🔥</h2>
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=zingimmick&theme=algolia&hide_border=true" alt="Streak Stats" />
+</p>
 
 <h2 align="center">Languages Used</h2>
 <p align="center">
   <a href="https://github.com/zingimmick">
     <img alt="Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zingimmick&theme=algolia&hide_border=true&layout=compact&langs_count=6" />
   </a>
-</p>
- 
-<h2 align="center">Streak Stats 🔥</h2>
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=zingimmick&theme=algolia&hide_border=true" alt="Streak Stats" />
 </p>
 <!--
 **zingimmick/zingimmick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
