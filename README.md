@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Welcome to Zing's profile!</h1>
 
 <h2 align="center">Github Stats</h2>
 <p align="center">
