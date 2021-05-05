@@ -1,5 +1,11 @@
 <h1 align="center">Welcome to Zing's profile!</h1>
 
+<p align="center">
+  <a href="https://github.com/zingimmick">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=zingimmick" />
+  </a>
+</p>
+
 <h2 align="center">Github Stats</h2>
 <p align="center">
   <a href="https://github.com/zingimmick">
