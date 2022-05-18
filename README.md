@@ -18,6 +18,9 @@
   <a href="https://github.com/zingimmick">
    <img src="https://activity-graph.herokuapp.com/graph?username=zingimmick&theme=react-dark&hide_border=true" width="100%">
   </a>
+  <a href="https://github.com/zingimmick">
+   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%">
+  </a>
 </p>
 
 <h2 align="center">Streak Stats 🔥</h2>
