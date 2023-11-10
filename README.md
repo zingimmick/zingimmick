@@ -16,7 +16,7 @@
 <h2 align="center">Activity Graph 📈</h2>
 <p align="center">
   <a href="https://github.com/zingimmick">
-   <img src="https://activity-graph.herokuapp.com/graph?username=zingimmick&theme=react-dark&hide_border=true" width="100%">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zingimmick&theme=react-dark&hide_border=true" width="100%">
   </a>
   <a href="https://github.com/zingimmick">
    <img src="./profile-3d-contrib/profile-night-view.svg" width="100%">
