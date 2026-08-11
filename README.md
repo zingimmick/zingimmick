@@ -6,10 +6,16 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/zingimmick">
+    <img alt="Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zingimmick&theme=algolia&animation=draw&name=Zing%27s+Github+Profile" />
+  </a>
+</p>
+
 <h2 align="center">Github Stats</h2>
 <p align="center">
   <a href="https://github.com/zingimmick">
-    <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=zingimmick&theme=algolia&show_icons=true&hide_border=true" />
+    <img alt="Git Stats" src="https://github-stats-extended.vercel.app/api?username=zingimmick&theme=algolia&show_icons=true&hide_border=true" />
   </a>
 </p>
 
@@ -31,6 +37,6 @@
 <h2 align="center">Languages Used</h2>
 <p align="center">
   <a href="https://github.com/zingimmick">
-    <img alt="Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zingimmick&theme=algolia&hide_border=true&layout=compact&langs_count=6" />
+    <img alt="Languages Used" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zingimmick&theme=algolia&hide_border=true&layout=compact&langs_count=6" />
   </a>
 </p>
